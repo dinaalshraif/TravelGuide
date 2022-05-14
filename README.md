@@ -1,8 +1,8 @@
 # TravelGuide
 
-# Introduction 
 
-# Motivation
+
+## Motivation
 In the last few years, sharing economy platforms have become popular in different fields, especially
 in hospitality. These platforms enable cutting down the middle man in the supply chain process
 and making transactions directly between the supplier and customer (peer-to-peer) that results in
