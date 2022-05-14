@@ -36,18 +36,30 @@ Airbnb does currently that help the users to decide where to stay.
 ### Here are steps to guide to use the Travel Guide application
 Here is a video to show you how to run the application. https://youtu.be/2Ig8K0JOcRY  
 
-1-	First of all, you need to install the packages in “requirements.txt”. 
-2-	Download the TravelGuide database from https://drive.google.com/file/d/1JZO_RlecxiEm7b142jmaH6N4zSjau1h1/view?usp=sharing 
+1-	First of all, you need to install the packages in “requirements.txt”.
+
+2-	Download the TravelGuide database from https://drive.google.com/file/d/1JZO_RlecxiEm7b142jmaH6N4zSjau1h1/view?usp=sharing
+
 3-	store the TravelGuide database file in the “DataSource” directory.
+
 4-	Run the “index.py” file. 
+
 5-	Click on the link that occurs in the output section.
+
 6-	Next, when the web page runs, set your criteria by selecting the neighbourhood, property type, number of bedrooms, and set price range (min and max). 
+
 ### Hint: min price should have a value less than the max price. 
+
 7-	Then, when the properties markers appear on the map, click on one of them to show the pop-up with summary information about the property.
+
 8-	To navigate to the property page, you should click on the listing link in the pop-up. 
+
 9-	After that, a property page will open in a new tap. To navigate to the property page Airbnb website, click on the “Click to see it in Airbnb” button. 
+
 10-	To check the nearby places and transportation, you should scroll down on the property page and click on one of the buttons. 
+
 11-	To filter the food venues based on your diet type, click on one of these buttons (Breakfast, Lunch, Dinner or café). Then you will be navigated to a page with a drop-down list, from this list select your diet type or any type.  
+
 ### Hint: it may take a long time to show the results.
 12-	To reach the embassy information go to the map page then select the country from the Embassy info drop-down list. 
 
