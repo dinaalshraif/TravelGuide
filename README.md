@@ -34,7 +34,8 @@ Airbnb does currently that help the users to decide where to stay.
 
 
 ### Here are steps to guide to use the Travel Guide application
-Here is a video to show you how to run the application. https://youtu.be/2Ig8K0JOcRY  /n 
+Here is a video to show you how to run the application. https://youtu.be/2Ig8K0JOcRY  
+
 1-	First of all, you need to install the packages in “requirements.txt”. 
 2-	Download the TravelGuide database from https://drive.google.com/file/d/1JZO_RlecxiEm7b142jmaH6N4zSjau1h1/view?usp=sharing 
 3-	store the TravelGuide database file in the “DataSource” directory.
